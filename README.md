@@ -144,8 +144,8 @@ Mon Nov  3 21:01:23 2025
 ## 👤 Author
 **Debashish Rout**  
 Developed under **Wipro TalentNext Capstone Project 2025**  
-📧 debasishdr451@example.com  
-🔗 [GitHub Profile](https://github.com/Debashish-DR)
+📧 routankitapriyadarshini4@gmail.com 
+🔗 [GitHub Profile](https://github.com/Ankita-44)
 
 ---
 
